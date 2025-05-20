@@ -7,16 +7,18 @@ title: "Step-by-Step Guide: Deploy Your FYP on the Faculty Server"
 
 
 
-> _Add an illustration or screenshot here_
 
 ---
 
 ## 1. Export Your Local Database
 
 1. **Login** to your local **phpMyAdmin**.  
-2. **Select** your project database.  
-3. Click the **Export** tab, then **Go** at the bottom.  
-4. Save the generated `.sql` file.
+2. **Select** your project database. _The figure below shows an example of a project database named `webdev_week_10_1_20242025`_.  
+![Desktop View](/assets/img/2025-05-20/select_database.png){: w="600" h="300" }
+3. Select the **Export** tab, and click **Export** at the bottom.
+![Desktop View](/assets/img/2025-05-20/export_database.png){: w="600" h="300" }
+4. You will see an `.sql` file has been generated.
+![Desktop View](/assets/img/2025-05-20/sql_file.png){: w="600" h="300" }
 
 ---
 
