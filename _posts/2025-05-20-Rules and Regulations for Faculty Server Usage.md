@@ -54,20 +54,5 @@ Any of the following will be treated as **severe misconduct**:
 
 ---
 
-## 5. Security & Best Practices
-- 🔑 **Strong Passwords:** Your DB password is initially your matric, but you may change it—avoid common words or patterns.  
-- 🔄 **Backups:** Keep a local copy of your `.sql` export and project files.  
-- 🔍 **Error Logs:** Check `/var/log/nginx/` or `/var/log/httpd/` if you hit “500” errors.  
-- 📡 **HTTPS Only:** Always use `https://10.65.200.7/<your-matric>` after trusting our self-signed cert.  
-- 🛡️ **Updates:** We manage system updates centrally. Do not attempt to upgrade PHP, MySQL, or system packages.
-
----
-
-## 6. Support & Contact
-If you encounter issues or need an exemption, please:
-1. Open a ticket at **IT Helpdesk** (Lab 3, FSKTM).  
-2. Email **itlab@uthm.edu.my** with subject `[FYP SERVER] YourMatric YourIssue`.
-
----
-
-> By using the Faculty FYP Server, you agree to abide by these rules. Let’s keep our environment professional, secure, and collaborative. Good luck with your project!  
+> By using the Faculty Server, you agree to abide by these rules. Let’s keep our environment professional, secure, and collaborative. Good luck with your project!  
+{: .prompt-warning } 
