@@ -29,7 +29,7 @@ You are free to build within the following tech stack **only**:
 - **Backend:** PHP 8.4  
 - **Database:** MySQL / MariaDB  
 
-> _Other frameworks or languages (Laravel, Node.js, Python, Ruby, etc.) are currently  **not** supported on this server._
+> _Other frameworks or languages (Laravel, Node.js, Express.js, Python, Ruby, etc.) are currently  **not** supported on this server._
 {: .prompt-tip } 
 
 ---
