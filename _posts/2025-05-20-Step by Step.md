@@ -75,15 +75,15 @@ title: "Step-by-Step Guide: Deploy Your FYP on the Faculty Server"
 
 1. Open `http://<server_ip>:3000/filebrowser` and **login** using the same login details as previous.
 ![Desktop View](/assets/img/2025-05-20/filebrowser_login_page.png){: w="600" h="300" }
-2. On the landing page, there are a few of existing files. **Do not delete the existing files.**
+2. On the landing page, you will see several existing files. **Do not delete them.**
 ![Desktop View](/assets/img/2025-05-20/filebrowser_landing_page.png){: w="600" h="300" }
-3. Click the **Upload Button** at the top right.
+3. Click the **Upload Button** at the top-right corner.
 ![Desktop View](/assets/img/2025-05-20/upload_button.png){: w="600" h="300" }
-4. Click **Upload Files**, select all your project files, then **Upload**. Then, click **Upload Folders**, select your directories, then **Upload**.
+4. Click **Upload Files**, select all your project files, then **Upload**. Again, click **Upload Folders**, select your directories, then **Upload**.
 ![Desktop View](/assets/img/2025-05-20/upload_file_folder.png){: w="600" h="300" }
-5. Click the **Select Multiple** button if you wish to delete any file/folder.
+5. Click the **Select Multiple** button if you want to delete one or more files or folders.
 ![Desktop View](/assets/img/2025-05-20/select_multiple.png){: w="600" h="300" }
-6. You can double click at any file to open the code editor. You may also edit and save the file on the go.
+6. Double-click any file to open it in the built-in code editor. You can edit and save changes directly within the interface.
 
 ---
 
