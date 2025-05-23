@@ -56,7 +56,7 @@ title: "Step-by-Step Guide: Deploy Your FYP on the Faculty Server"
 ## 3. Import the Database on the Server
 
 1. Browse to `https://<server_ip>/phpmyadmin` and **login**.  
-2. If a warning appears, click **Advanced** or equivalent (browser-dependant) and choose **Continue**. 
+2. If a warning appears, click **Advanced or its equivalent (depending on your browser)**, and then click **Continue**.
 ![Desktop View](/assets/img/2025-05-20/not_private_2.png){: w="600" h="300" }
 ![Desktop View](/assets/img/2025-05-20/not_private_3.png){: w="600" h="300" }
 3. Enter your login details on the `PhpMyAdmin` login page.
