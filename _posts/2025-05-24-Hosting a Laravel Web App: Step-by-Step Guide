@@ -1,0 +1,19 @@
+---
+author: ariffinmzin
+categories: [guidelines, fyp]
+date: 2025-05-23 18:53:00 +0800
+title: "Hosting a Laravel Web App: Step-by-Step Guide"
+---
+
+
+---
+
+## 1. Purchase a Domain from GoDaddy
+
+1. Log in or create an account on [GoDaddy](https://www.godaddy.com). 
+2. Use the domain search to find an available domain name. You can pick any domain name ranging from your name, the web application name, stakeholder's name, etc as long it is available.
+3. For an FYP project, you can choose a cheap extension like `.online, .store, .co, .site, .xyz,` etc.
+![Desktop View](/assets/img/2025-05-24/domain_search.png){: w="600" h="300" } 
+4. Add the domain to your cart and complete the purchase. 
+5. Once you have done purchasing, make sure the auto renew option is off to avoid automatic renewal after a year. Skip this step if you wish otherwise.
+![Desktop View](/assets/img/2025-05-24/auto_renew_off.png){: w="600" h="300" } 
