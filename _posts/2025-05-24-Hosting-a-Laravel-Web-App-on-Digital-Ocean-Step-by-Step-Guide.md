@@ -2,7 +2,8 @@
 author: ariffinmzin
 categories: [guidelines, fyp]
 date: 2025-05-23 18:53:00 +0800
-title: "Hosting a Laravel Web App on Digital Ocean: Step-by-Step Guide"
+last_modified_at: 2025-05-25 17:55:00 +0800
+title: "Hosting a Laravel Web App on Digital Ocean: Step by Step Guide"
 tags: [laravel, hosting]
 ---
 
@@ -18,7 +19,7 @@ tags: [laravel, hosting]
 > 3. **Payment method** – you will enter a **credit/debit card** to pay small fees at GoDaddy & DigitalOcean (≈ RM30/month combined; you can cancel any time).  
 > 4. **Perseverance & curiosity** – expect to troubleshoot and learn; copy-and-paste won’t make you industry-ready.
 >
-> If that sounds overwhelming, there are easier “one-click” hosting tutorials that you can search on YouTube which abstract all the complexity and technicality for non-IT users - free to start there.  
+> If that sounds overwhelming, there are easier “one-click” hosting tutorials that you can search on YouTube which abstract all the complexity and technicality for non-IT users - feel free to start there.  
 > **Why stick with this tutorial?**  
 > • Real **hands-on experience** with VPS provisioning and deployment   
 > • Concrete **up-skilling** in Git, SSH and server control panel (CloudPanel)  
