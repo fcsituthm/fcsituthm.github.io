@@ -4,7 +4,7 @@ title: "Rules and Regulations for Faculty Server Usage"
 date: 2025-05-20 12:00:00 +0800
 categories: [guidelines, fyp]
 tags: [server, UTHM, eduroam, rules]
-pin: true
+pin: 1
 ---
 
 
