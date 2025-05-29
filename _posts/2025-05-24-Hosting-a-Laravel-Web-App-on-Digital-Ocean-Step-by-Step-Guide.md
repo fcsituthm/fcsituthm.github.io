@@ -2,7 +2,7 @@
 author: ariffinmzin
 categories: [guidelines, fyp]
 date: 2025-05-23 18:53:00 +0800
-last_modified_at: 2025-05-25 17:55:00 +0800
+last_modified_at: 2025-05-29 21:55:00 +0800
 title: "Hosting a Laravel Web App on Digital Ocean: Step by Step Guide"
 tags: [laravel, hosting]
 ---
@@ -302,7 +302,24 @@ tags: [laravel, hosting]
 
 ---
 
-## 8. Tips
+## 8. Destroying The Droplet
+
+When your FYP is complete and you no longer need the server, it’s a good idea to destroy your Droplet **to stop billing**. **Warning: this action is irreversible and will permanently erase all data on the Droplet.**
+
+1. In the DigitalOcean dashboard, locate your Droplet (e.g., **laravel-app-server**) and click the **three-dot menu** at the top right of its card. Choose **Destroy** from the dropdown.  
+
+    ![Desktop View](/assets/img/2025-05-24/destroy_droplet.png){: w="600" h="300" }
+
+2. On the **Destroy Droplet** confirmation page, click the **Destroy this Droplet** button to confirm.  
+    
+    ![Desktop View](/assets/img/2025-05-24/destroy_this_droplet.png){: w="600" h="300" }
+
+> Once destroyed, all data is scrubbed and cannot be recovered.
+{: .prompt-danger }
+
+---
+
+## 9. Tips
 
 1. You can access the PhpMyAdmin by clicking the **Manage** button.
 
@@ -313,3 +330,6 @@ tags: [laravel, hosting]
     ```bash
     git pull origin main
     ```
+3. You can choose **Resize Droplet** from the three-dot menu to scale up your server’s CPU, memory or disk if you need more resources.
+
+    ![Desktop View](/assets/img/2025-05-24/resize_droplet.png){: w="600" h="300" }
