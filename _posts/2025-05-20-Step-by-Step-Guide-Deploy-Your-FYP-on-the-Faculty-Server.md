@@ -12,17 +12,9 @@ tags: [fyp, hosting]
 
 ---
 
-## 1. Server Allocation Table
+## 1. Server IP Address
 
-| Program                                                      | Server IP     |
-| ------------------------------------------------------------ | ------------- |
-| Bachelor of Computer Science (Software Engineering)          | 10.65.200.1   |
-| Bachelor of Computer Science (Information Security)          | 10.65.200.5   |
-| Bachelor of Computer Science (Web Technology)                | 10.65.200.6   |
-| Bachelor of Information Technology                           | 10.65.200.8   |
-
-
-1. The table above lists each degree program alongside its assigned server IP. Students should use these IPs to deploy their FYPs and to connect to services on the faculty server.
+1. The server IP address is 10.65.200.8. You can access it through browser https://10.65.200.8
 2. These **server IPs are only accessible within the local UTHM network** — either via **UTHM Wi-Fi** or **Eduroam** on campus.
 3. The **username and password** for all services (phpMyAdmin, File Browser) is your **matric number**.
 4. Access examples to the services:
@@ -31,13 +23,13 @@ tags: [fyp, hosting]
 
 > `https://<server_ip>/phpmyadmin`
 >
->_Example: https://10.65.200.1/phpmyadmin_
+>_Example: https://10.65.200.8/phpmyadmin_
 {: .prompt-info }
 * File Browser (no HTTPS) - To upload and manage project files:
 
 > `http://<server_ip>:3000/filebrowser`
 >
->_Example: http://10.65.200.1:3000/filebrowser_
+>_Example: http://10.65.200.8:3000/filebrowser_
 {: .prompt-info }
 
 ---
