@@ -21,15 +21,11 @@ tags: [fyp, hosting]
 
 * phpMyAdmin - To open the database client:
 
-> `https://<server_ip>/phpmyadmin`
->
->_Example: https://10.65.200.8/phpmyadmin_
+>https://10.65.200.8/phpmyadmin
 {: .prompt-info }
 * File Browser (no HTTPS) - To upload and manage project files:
 
-> `http://<server_ip>:3000/filebrowser`
->
->_Example: http://10.65.200.8:3000/filebrowser_
+>http://10.65.200.8:3000/filebrowser
 {: .prompt-info }
 
 ---
@@ -53,7 +49,7 @@ tags: [fyp, hosting]
 
 ## 3. Import the Database on the Server
 
-1. Browse to `https://<server_ip>/phpmyadmin` and **login**.  
+1. Browse to `https://10.65.200.8/phpmyadmin` and **login**.  
 2. If a warning appears, click **Advanced** or equivalent (browser-dependant) and choose **Continue**. 
 
     ![Desktop View](/assets/img/2025-05-20/not_private_2.png){: w="600" h="300" }
@@ -81,7 +77,7 @@ tags: [fyp, hosting]
 
 ## 4. Upload Your Project Files
 
-1. Open `http://<server_ip>:3000/filebrowser` and **login** using the same login details as previous.
+1. Open `http://10.65.200.8:3000/filebrowser` and **login** using the same login details as previous.
 
     ![Desktop View](/assets/img/2025-05-20/filebrowser_login_page.png){: w="600" h="300" }
 
@@ -121,7 +117,7 @@ In your PHP (database connection or config) file, set:
 ## 6. Access Your Web Application
 
 1. Ensure your entry page is named `index.php` or `index.html`.
-2. Visit your deployed application at: `https://<server_ip>/yourmatricnumber`.
+2. Visit your deployed application at: `https://10.65.200.8/yourmatricnumber`.
 3. Done! Your FYP is now live on the faculty server.
 
 
